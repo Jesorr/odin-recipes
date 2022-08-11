@@ -1,3 +1,3 @@
 # odin-recipes
-Working on solidifying basic html knowledge
-Includes general boilerplate, lists, links, images
+<p>Working on solidifying basic html knowledge</p>
+<p>Includes general boilerplate, lists, links, images</p>
